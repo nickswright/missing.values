@@ -23,11 +23,11 @@ The goal of missing.values is to count the number of missing values from each co
 ## Installation
 
 You can install the development version of missing.values like so:
-
-``` r
+```{r}
 # install.packages("devtools")
 devtools::install_github("stat545ubc-2023/missing.values")
 ```
+
 
 ## Example
 
